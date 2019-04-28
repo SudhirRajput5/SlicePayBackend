@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sudhi
+Build-Jdk: 11.0.2
+Implementation-Title: SlicePay
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.slice
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SlicePay
+Created-By: Maven Integration for Eclipse
+

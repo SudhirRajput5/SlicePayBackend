@@ -1,0 +1,19 @@
+package com.slice.SlicePay;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+@EnableAutoConfiguration
+@ComponentScan
+@SpringBootApplication
+public class SlicePayApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SlicePayApplication.class, args);
+	}
+
+}
